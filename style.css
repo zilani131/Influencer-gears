@@ -150,7 +150,7 @@ p{
 #grid-footer{
     position: absolute;
     color: #E02C6D;
-    right: 0px;
+    right: 30px;
     bottom: 0px;
 }
 #grid-footer>a{
